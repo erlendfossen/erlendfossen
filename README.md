@@ -8,6 +8,8 @@ I am a data scientist currently working as a researcher in biostatistics and bio
 My educational background is in evolutionary biology and ecology, where I regularly used R and occationally bash and Python for data management and analyses.  
 
 Below is a list of the main repositories I'm a collaborator on: 
+* [**ML_Beetles**](https://github.com/erlendfossen/ML_Beetles) (public): using machine learning (random forest) to classify species of beetles based on morphology
+
 * [**OCBE: ISC-Bias**](https://github.com/ocbe-uio/ISC-Bias) (private): investigating the potential bias in model performance introduced under different imputation scenarios
 
 * [**PlasticityRNA**](https://github.com/erlendfossen/PlasticityRNA) (private): using RNA data to quantify and study the evolution of phenotypic plasticity
