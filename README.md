@@ -10,9 +10,11 @@ My educational background is in evolutionary biology and ecology, where I regula
 Below is a list of the main repositories I'm a collaborator on: 
 * [**ML_Beetles**](https://github.com/erlendfossen/ML_Beetles) (public): using machine learning (random forest) to classify species of beetles based on morphology
 
-* [**OCBE: ISC-Bias**](https://github.com/ocbe-uio/ISC-Bias) (private): investigating the potential bias in model performance introduced under different imputation scenarios
+* [**PlasticityRNA**](https://github.com/erlendfossen/PlasticityRNA) (private): using differential gene expression analyses to quantify and study the evolution of phenotypic plasticity
 
-* [**PlasticityRNA**](https://github.com/erlendfossen/PlasticityRNA) (private): using RNA data to quantify and study the evolution of phenotypic plasticity
+* [**Plasticity_bet-hedging**](https://github.com/erlendfossen/Plasticity_bet-hedging) (private): using animal models (Bayesian mixed effect models) and GLMs to quantify and study evolution of phenotypic plasticity and bet-hedging
+
+* [**OCBE: ISC-Bias**](https://github.com/ocbe-uio/ISC-Bias) (private): investigating the potential bias in model performance introduced under different imputation scenarios
 
 <!-- * as comment for later (public), [public datasets, incl other ones](https://github.com/phydev/tcga-supertreat) -->
 
