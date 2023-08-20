@@ -10,6 +10,8 @@ My educational background is in evolutionary biology and ecology, where I regula
 Below is a list of the main repositories I'm a collaborator on: 
 * [**ML_Beetles**](https://github.com/erlendfossen/ML_Beetles) (public): using machine learning (random forest) to classify species of beetles based on morphology
 
+* [**SuPerTreat_exclusion_flowcharts**](https://github.com/erlendfossen/SuPerTreat_exclusion_flowcharts) (public): making exclusion flowcharts of patients in the SuPerTreat project, a project where analyses of big data is used to support personalized treatment decisions. 
+
 * [**PlasticityRNA**](https://github.com/erlendfossen/PlasticityRNA) (private): using differential gene expression analyses to quantify and study the evolution of phenotypic plasticity
 
 * [**Plasticity_bet-hedging**](https://github.com/erlendfossen/Plasticity_bet-hedging) (private): using animal models (Bayesian mixed effect models) and GLMs to quantify and study evolution of phenotypic plasticity and bet-hedging
