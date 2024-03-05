@@ -16,7 +16,7 @@ Below is a list of the main repositories I'm a collaborator on:
 
 * [**Plasticity_bet-hedging**](https://github.com/erlendfossen/Plasticity_bet-hedging) (private): using animal models (Bayesian mixed effect models) and GLMs to quantify and study evolution of phenotypic plasticity and bet-hedging
 
-* [**OCBE: ISC-Bias**](https://github.com/ocbe-uio/ISC-Bias) (private): investigating the potential bias in model performance introduced under different imputation scenarios
+<!-- * [**OCBE: ISC-Bias**](https://github.com/ocbe-uio/ISC-Bias) (private): investigating the potential bias in model performance introduced under different imputation scenarios
 
 <!-- * as comment for later (public), [public datasets, incl other ones](https://github.com/phydev/tcga-supertreat) -->
 
