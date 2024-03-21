@@ -14,7 +14,7 @@ Below is a list of the main repositories I'm a collaborator on:
 
 * [**PlasticityRNA**](https://github.com/erlendfossen/PlasticityRNA) (private): using differential gene expression analyses to quantify and study the evolution of phenotypic plasticity
 
-* [**Hyperplasticity_package**](https://github.com/erlendfossen/hyperplasticity_package) (private): developing an R package for classification of different types of phenotypic plasticity in relation to evolution/adaptiveness
+* [**Hyperplasticity_package**](https://github.com/erlendfossen/hyperplasticity_package) (private): developing an R package for classification of phenotypic plasticity in an evolutionary setting
 
 * [**Plasticity_bet-hedging**](https://github.com/erlendfossen/Plasticity_bet-hedging) (private): using animal models (Bayesian mixed effect models) and GLMs to quantify and study evolution of phenotypic plasticity and bet-hedging
 
