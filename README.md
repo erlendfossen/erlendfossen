@@ -1,9 +1,9 @@
 [![ResearchGate](https://img.shields.io/badge/Research-Gate-9cf)](https://www.researchgate.net/profile/Erlend-Fossen) 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eiffossen/)
+[Linkedin](https://www.linkedin.com/in/eiffossen/)
 
 Hi,
 
-I am a data scientist currently working as a researcher in biostatistics and bioinformatics. My main projects involve developing and applying methods in statistics, bioinformatics and machine learning to study and predict survival and quality of life of cancer patients. I primarily use R for programming and analyses, but also have some experience with Python and bash.
+I am a research scientist currently doing research within the topic of climate and health. Previous projects involved developing and applying methods in statistics, bioinformatics and machine learning to study and predict survival and quality of life of cancer patients. I primarily use R for programming and analyses, but also have some experience with Python and bash.
 
 My educational background is in evolutionary biology and ecology, where I regularly used R and occationally bash and Python for data management and analyses.  
 
