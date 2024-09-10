@@ -8,9 +8,11 @@ I am a data scientist currently working as a researcher in biostatistics and bio
 My educational background is in evolutionary biology and ecology, where I regularly used R and occationally bash and Python for data management and analyses.  
 
 Below is a list of the main repositories I'm a collaborator on: 
+* [**SuPerTreat_GS_validation**](https://github.com/erlendfossen/SuPerTreat_GS_validation) (public): time-to-event (cox) models used to validate gene signatures as part of the SuPerTreat project, a project where analyses of big data is used to support personalized treatment decisions 
+
 * [**ML_Beetles**](https://github.com/erlendfossen/ML_Beetles) (public): using machine learning (random forest) to classify species of beetles based on morphology
 
-* [**SuPerTreat_exclusion_flowcharts**](https://github.com/erlendfossen/SuPerTreat_exclusion_flowcharts) (public): making exclusion flowcharts of patients in the SuPerTreat project, a project where analyses of big data is used to support personalized treatment decisions. 
+* [**SuPerTreat_exclusion_flowcharts**](https://github.com/erlendfossen/SuPerTreat_exclusion_flowcharts) (public): making exclusion flowcharts of patients in the SuPerTreat project
 
 * [**PlasticityRNA**](https://github.com/erlendfossen/PlasticityRNA) (private): using differential gene expression analyses to quantify and study the evolution of phenotypic plasticity
 
