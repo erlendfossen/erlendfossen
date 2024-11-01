@@ -12,8 +12,6 @@ Below is a list of the main repositories I'm a collaborator on:
 
 * [**ML_Beetles**](https://github.com/erlendfossen/ML_Beetles) (public): using machine learning (random forest) to classify species of beetles based on morphology
 
-* [**SuPerTreat_exclusion_flowcharts**](https://github.com/erlendfossen/SuPerTreat_exclusion_flowcharts) (public): making exclusion flowcharts of patients in the SuPerTreat project
-
 * [**PlasticityRNA**](https://github.com/erlendfossen/PlasticityRNA) (private): using differential gene expression analyses to quantify and study the evolution of phenotypic plasticity
 
 * [**Hyperplasticity_package**](https://github.com/erlendfossen/hyperplasticity_package) (private): developing an R package for classification of phenotypic plasticity in an evolutionary setting
